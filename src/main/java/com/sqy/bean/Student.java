@@ -6,5 +6,7 @@ public class Student {
 		System.out.println("4.23作业");
 		
 		System.out.println("做了修改");
+		
+		System.out.println("更新");
 	}
 }
